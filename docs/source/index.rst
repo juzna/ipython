@@ -60,7 +60,7 @@ The Command line interface inherits all the above functionality and posses
 The kernel also have its share of feature, when used with a compatible frontend
 it allows for:
 
-* rich display system for object allowing to display Html, Images, Latex,Sounds
+* rich display system for object allowing to display Html, Images, Latex, Sounds,
   Video.
 
 * interactive widgets with the use of the ``ipywidgets`` package.
